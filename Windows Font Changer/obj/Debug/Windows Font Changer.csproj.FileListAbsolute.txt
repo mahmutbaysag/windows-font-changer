@@ -1,0 +1,18 @@
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\bin\Debug\Windows Font Changer.exe.config
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\bin\Debug\Windows Font Changer.exe
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\bin\Debug\Windows Font Changer.pdb
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows Font Changer.csproj.AssemblyReference.cache
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows Font Changer.csproj.SuggestedBindingRedirects.cache
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows_Font_Changer.Form1.resources
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows_Font_Changer.Properties.Resources.resources
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows Font Changer.csproj.GenerateResource.cache
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows Font Changer.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows Font Changer.exe
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows Font Changer.pdb
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\bin\Debug\tr-TR\Windows Font Changer.resources.dll
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows_Font_Changer.Localization.resources
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows_Font_Changer.Localization.tr-TR.resources
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\tr-TR\Windows Font Changer.resources.dll
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\bin\Debug\en-US\Windows Font Changer.resources.dll
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\Windows_Font_Changer.Localization.en-US.resources
+C:\Users\astro\source\repos\Windows Font Changer\Windows Font Changer\obj\Debug\en-US\Windows Font Changer.resources.dll
